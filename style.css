@@ -23,3 +23,11 @@
   width: 50%;
   padding: 2.5px;
 }
+
+article>p {
+  text-align: justify;
+  padding-right: 5px ;
+  margin-right: 22px;
+
+
+}
